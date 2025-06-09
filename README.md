@@ -1,6 +1,6 @@
 # C-
-收录2023年暑期上C++程设课时所写的大作业wordle，仅存档
-该代码在Visual Studios 2022上所写，sln后缀为项目，在Visual Studio里打开直接打开此项目所有文档。
+收录2023年暑期上C++程设课时所写的大作业wordle，仅存档  
+该代码在Visual Studios 2022上所写，sln后缀为项目，在Visual Studio里打开直接打开此项目所有文档。  
 如果使用其他编译器，只需下载源1.cpp，ACC.txt和FINAL.txt即可。
 第一行输入一个整数T，表示本数据属于第几个任务。（
 1
